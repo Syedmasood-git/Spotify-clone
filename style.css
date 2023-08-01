@@ -30,6 +30,7 @@ body{
   position: fixed;
   background-color: black;
   width: 20%;
+  height: 90%;
 }
 .hero {
   flex: 4;
@@ -129,9 +130,6 @@ ul > li {
 }
 .hero {
   margin-left: 20%;
-  
-
-  
 }
 .nav-bar {
   display: flex;
